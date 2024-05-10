@@ -2,7 +2,7 @@ import { useState } from "react";
 import Task from "./components/Task";
 import TaskList from "./components/TaskList";
 import Header from "./components/Header";
-import "./app.css";
+
 
 function App() {
   const [input, setInput] = useState("");
