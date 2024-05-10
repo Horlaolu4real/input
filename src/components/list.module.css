@@ -1,0 +1,24 @@
+.header {
+  background-color: yellow;
+  padding: 10px;
+  margin-top: 10px;
+  text-align: center;
+}
+.head {
+  color: #fff;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 900;
+}
+.btn {
+  padding: 10px;
+  color: #fff;
+  border-radius: 10px;
+  margin-top: 5px;
+  font-size: 20px;
+  background-color: blue;
+  border: none;
+  outline: none;
+
+
+
+}
